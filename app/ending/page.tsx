@@ -19,13 +19,13 @@ export default function Ending() {
             <div className="absolute z-[-2]" style={{ top: '300px', left: '1020px' }}>
                 <div className="p-8 rounded-lg shadow-md max-w-3xl w-[400px]">
                     <h2 className="text-1xl font-bold text-white mb-4">
-                        Why Choose FurryBuddy for Your Pet's Health?
-                    </h2>{/* eslint-disable-line react/no-unescaped-entities */}
+                        Why Choose FurryBuddy for Your Pet&apos;s Health?
+                    </h2>
                     <p className="text-white text-sm">
                         At Furry Buddy, we combine cutting-edge AI technology with expert veterinary insights to bring you a reliable, <br/>
-                        real-time health prediction system for your pets. Get actionable recommendations based on your pet's unique <br/>
+                        real-time health prediction system for your pets. Get actionable recommendations based on your pet&apos;s unique <br/>
                         profile and ensure their long-term health and happiness.
-                    </p>{/* eslint-disable-line react/no-unescaped-entities */}
+                    </p>
                 </div>
             </div>
             
