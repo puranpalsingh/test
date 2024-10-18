@@ -4,10 +4,6 @@ import imageSrc2 from './img/2.png';
 import imageSrc3 from './img/3.png';
 import imageSrc4 from './img/4.png';
 import imageSrc5 from './img/5.png';
-import imageSrc6 from './img/12.png';
-import imageSrc7 from './img/13.png';
-import imageSrc8 from './img/14.png';
-import imageSrc9 from './img/15.png';
 import tick from './img/tick.png'
 
 
