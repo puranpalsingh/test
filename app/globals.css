@@ -2,26 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.clip-shape {
+    clip-path: polygon(100.1% 0%, 100.1% 55%, 88.6% 77.3%, 76.9% 83.5%, 51.7% 93.3%, 25.5% 82.5%, 8.5% 82%, 0% 58.8%, 0% 0%);
 }

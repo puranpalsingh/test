@@ -12,6 +12,12 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily:{
+        handwritten: ['Dancing Script', 'cursive'],
+      },
+      backgroundColor: {
+        'custom-pink': '#F33877',
+      },
     },
   },
   plugins: [],
