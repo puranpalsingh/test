@@ -13,7 +13,7 @@ export default function Landing() {
         <div className=" items-center p-5">
             <h1 className="text-5xl font-extrabold font-handwritten mb-4">
                 "Your Pet's Health,<br /> Smarter with AI"
-            </h1>
+            </h1>{/* eslint-disable-line react/no-unescaped-entities */}
         </div>
         <div className="flex-grow flex items-center justify-center">
                 <button className="bg-custom-pink p-2 rounded-md h-[50px] w-[200px]">
@@ -39,7 +39,7 @@ export default function Landing() {
         <div className="absolute" style={{ top: '260px', left: '900px' }}>
             <h1 className="text-sm font-bold font-handwritten  mb-4">
                 Track, Diagnose and Connect -<br />&nbsp;&nbsp;&nbsp; All in One Place"
-            </h1>
+            </h1>{/* eslint-disable-line react/no-unescaped-entities */}
         </div>
         <div className="absolute" style={{ top: '200px', left: '800px' }}>
             <Image className = "object-cover"src={tick} alt='puppy' width ={70} height={70}/>
