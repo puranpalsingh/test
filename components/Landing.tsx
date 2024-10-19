@@ -9,7 +9,7 @@ import tick from './img/tick.png'
 
 export default function Landing() {
     return (
-        <div className="realtive bg-sky-200 w-full h-[600px] flex flex-col items-center clip-shape">
+        <div className="bg-sky-200 w-full h-[600px] flex flex-col items-center clip-shape">
         <div className=" items-center p-5">
             <h1 className="text-5xl font-extrabold font-handwritten mb-4">
             &quot;Your Pet&apos;s Health,<br /> Smarter with AI&quot;
